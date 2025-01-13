@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/UbisoftCanada-watch-dogs-dedsec-EaEWuES5SDSpcnOlRt](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UzN3BsZnI5anZoODNvOWs2M3Z0c2cyaTZ5ZWZnZzdiOTNmaWswdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2009220277642084943/09F5C498ADFD5120F124BD48E034208EA7F350C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate Hardware & IOT Junior Pentester and a Hobbiest frontend developer from Pakistan</h3>
 
