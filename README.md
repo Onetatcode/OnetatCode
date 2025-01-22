@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Junior Soc Analyst**
 
-- 👯 I’m looking to collaborate on [ciphertech](https://github.com/cifertech)
+- 👯 I’m looking to collaborate with and work as the great man he is [ciphertech](https://github.com/cifertech)
 
 - 🤝 I’m looking for help with **Networking,PCB designing**
 
